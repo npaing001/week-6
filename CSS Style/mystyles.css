@@ -1,0 +1,17 @@
+h1{color: aliceblue;font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: center;font-size: 7;letter-spacing: 50px;width: 200; height: 60;}
+p2{color: aliceblue;font-family: Verdana, Geneva, Tahoma, sans-serif;text-align: justify;font-size: medium;letter-spacing: normal;width: 200;height: 60;float: left;}
+nav{color:black}
+footer{color: aliceblue;}
+header{background-color: red;}
+body{background-color:black;}
+div.container{border: 5px solid black; }.hero img{width: 100%;}
+ul{text-align: center;}
+li{display: inline-block;width: 300px;border: 0px solid black;line-height: 4em;font-family: Verdana, Geneva, Tahoma, sans-serif;;}
+a{color: white;text-decoration: none;border: 10px solid red ;font-size: 7;}
+footer{text-align: center;}
+div.slideshow {  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
+
+
